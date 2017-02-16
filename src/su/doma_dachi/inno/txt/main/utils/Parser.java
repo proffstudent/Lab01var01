@@ -1,4 +1,4 @@
-package su.doma_dachi.inno.txt;
+package su.doma_dachi.inno.txt.main.utils;
 
 import java.io.*;
 import java.net.URL;
@@ -20,7 +20,9 @@ public class Parser {
         for (String resource: resources){
             if(flag.get()){
                 Thread thread = new Thread(new ThreadForRecource(resource));
+                System.out.println(thread.getName());
                 thread.start();
+
             } else {
                 break;
             }

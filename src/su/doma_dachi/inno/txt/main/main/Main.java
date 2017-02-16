@@ -1,7 +1,6 @@
-package su.doma_dachi.inno.txt;
+package su.doma_dachi.inno.txt.main.main;
 
-import java.io.*;
-import java.util.HashSet;
+import su.doma_dachi.inno.txt.main.utils.Parser;
 
 public class Main {
 

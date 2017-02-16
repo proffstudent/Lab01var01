@@ -1,11 +1,10 @@
-package su.doma_dachi.inno.txt;
+package su.doma_dachi.inno.txt.main.utils;
 
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashSet;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 /**
  * Created by User on 13.02.2017.

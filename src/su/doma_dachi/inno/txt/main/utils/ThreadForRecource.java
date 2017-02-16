@@ -1,6 +1,4 @@
-package su.doma_dachi.inno.txt;
-
-import static su.doma_dachi.inno.txt.Parser.choiceResource;
+package su.doma_dachi.inno.txt.main.utils;
 
 /**
  * Created by User on 13.02.2017.
@@ -23,6 +21,7 @@ public class ThreadForRecource implements Runnable {
     }
     @Override
     public void run() {
-        choiceResource(recource);
+        System.out.println("start thread"+ Thread.currentThread().getName());
+        Parser.choiceResource(recource);
     }
 }
