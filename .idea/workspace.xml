@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ba5c1e7-46c1-4b4f-9a0b-750c96858097" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/01/su/doma_dachi/inno/txt/main/utils/Parser.class" afterPath="$PROJECT_DIR$/out/production/01/su/doma_dachi/inno/txt/main/utils/Parser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/01/su/doma_dachi/inno/txt/main/utils/Utils.class" afterPath="$PROJECT_DIR$/out/production/01/su/doma_dachi/inno/txt/main/utils/Utils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.txt" afterPath="$PROJECT_DIR$/3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Parser.java" afterPath="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Parser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Utils.java" afterPath="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Utils.java" />
     </list>
     <ignored path="01.iws" />
@@ -39,10 +44,10 @@
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
               <folding>
-                <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
+                <marker date="1487213299589" expanded="true" signature="1649:1833" ph="..." />
               </folding>
             </state>
           </provider>
@@ -51,8 +56,8 @@
       <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="275">
+              <caret line="68" column="53" lean-forward="false" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -99,10 +104,11 @@
         <option value="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/Parser.java" />
         <option value="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/ThreadForRecource.java" />
         <option value="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/Utils.java" />
-        <option value="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Parser.java" />
         <option value="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/main/Main.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Parser.java" />
+        <option value="$PROJECT_DIR$/3.txt" />
       </list>
     </option>
   </component>
@@ -218,7 +224,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -235,7 +241,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="su.doma_dachi.inno.txt.main.main.Main" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="zadanie.txt zadanie2.txt https://vk.com/doc9128441_442342059?hash=2814e97fc088373812&amp;dl=3ab644878ff08ab446 https://vk.com/doc9128441_442341986?hash=81625d7c7bf5292498&amp;dl=ac2f85557c818debe6 3.txt http://doma-dachi.su/test.txt" />
+      <option name="PROGRAM_PARAMETERS" value="http://doma-dachi.su/test.txt https://vk.com/doc9128441_442342059?hash=2814e97fc088373812&amp;dl=3ab644878ff08ab446 https://vk.com/doc9128441_442341986?hash=81625d7c7bf5292498&amp;dl=ac2f85557c818debe6 3.txt zadanie.txt zadanie2.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -492,7 +498,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -546,22 +552,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/ThreadForRecource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -575,7 +565,7 @@
         <state relative-caret-position="765">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
+            <marker date="1487213299589" expanded="true" signature="1649:1833" ph="..." />
           </folding>
         </state>
       </provider>
@@ -616,7 +606,7 @@
         <state relative-caret-position="765">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
+            <marker date="1487213299589" expanded="true" signature="1649:1833" ph="..." />
           </folding>
         </state>
       </provider>
@@ -657,7 +647,7 @@
         <state relative-caret-position="765">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
+            <marker date="1487213299589" expanded="true" signature="1649:1833" ph="..." />
           </folding>
         </state>
       </provider>
@@ -698,7 +688,7 @@
         <state relative-caret-position="918">
           <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="22" />
           <folding>
-            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
+            <marker date="1487213299589" expanded="true" signature="1649:1833" ph="..." />
           </folding>
         </state>
       </provider>
@@ -739,7 +729,7 @@
         <state relative-caret-position="918">
           <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="22" />
           <folding>
-            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
+            <marker date="1487213299589" expanded="true" signature="1649:1833" ph="..." />
           </folding>
         </state>
       </provider>
@@ -831,25 +821,11 @@
     <entry file="file://$PROJECT_DIR$/src/src/su/doma_dachi/inno/txt/ThreadForRecource.java" />
     <entry file="file://$PROJECT_DIR$/src/src/su/doma_dachi/inno/txt/Parser.java" />
     <entry file="file://$PROJECT_DIR$/src/src/su/doma_dachi/inno/txt/Main.java" />
-    <entry file="file://$PROJECT_DIR$/zadanie2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="483" lean-forward="false" selection-start-line="2" selection-start-column="483" selection-end-line="2" selection-end-column="483" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/net/URL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4215">
           <caret line="977" column="25" lean-forward="false" selection-start-line="977" selection-start-column="25" selection-end-line="977" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="131" lean-forward="false" selection-start-line="2" selection-start-column="131" selection-end-line="2" selection-end-column="131" />
         </state>
       </provider>
     </entry>
@@ -883,14 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/ThreadForRecource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -907,20 +875,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/ThreadForRecource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="383" lean-forward="true" selection-start-line="2" selection-start-column="383" selection-end-line="2" selection-end-column="483" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="275">
+          <caret line="68" column="53" lean-forward="false" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="131" lean-forward="false" selection-start-line="2" selection-start-column="131" selection-end-line="2" selection-end-column="131" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
           <folding>
-            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
+            <marker date="1487213299589" expanded="true" signature="1649:1833" ph="..." />
           </folding>
         </state>
       </provider>

@@ -22,7 +22,6 @@ public class Parser {
                 Thread thread = new Thread(new ThreadForRecource(resource));
                 System.out.println(thread.getName());
                 thread.start();
-
             } else {
                 break;
             }
@@ -67,6 +66,7 @@ public class Parser {
         } catch (IOException e) {
             System.out.println(e.getMessage());
         }
+        System.out.println("Загружен файл: " + path);
         return list;
     }
 
@@ -78,6 +78,7 @@ public class Parser {
                 if (Utils.filter(line)) {
                     list.add(line);
                 } else {
+                    flag.getAndSet(false);
                     throw new IOException("Ошибка в содержимом файла "+path);
                 }
             }
