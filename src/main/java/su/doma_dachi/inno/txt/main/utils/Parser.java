@@ -1,5 +1,8 @@
 package su.doma_dachi.inno.txt.main.utils;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
 import java.io.*;
 import java.net.URL;
 import java.util.*;
@@ -11,7 +14,11 @@ import java.util.concurrent.atomic.AtomicBoolean;
 public class Parser {
     public static AtomicBoolean flag = new AtomicBoolean(true);
     public static Map<String,Integer> words = new HashMap<>();
+    private static final Logger logger = Logger.getLogger(Parser.class);
 
+    static {
+        PropertyConfigurator.configure("src/main/resources/log4j.properties");
+    }
     /**
      *
      * @param resources разбиваем ресурсы между потоками
@@ -20,7 +27,7 @@ public class Parser {
         for (String resource: resources){
             if(flag.get()){
                 Thread thread = new Thread(new ThreadForRecource(resource));
-                System.out.println(thread.getName());
+                logger.info(thread.getName());
                 thread.start();
             } else {
                 break;
@@ -55,7 +62,7 @@ public class Parser {
         List<String> list = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(path)))) {
             String line;
-            while ((line = br.readLine()) != null) {
+            while (((line = br.readLine()) != null)&&Parser.flag.get()) {
                 if (Utils.filter(line)) {
                     list.add(line);
                 } else {
@@ -66,7 +73,7 @@ public class Parser {
         } catch (IOException e) {
             System.out.println(e.getMessage());
         }
-        System.out.println("Загружен файл: " + path);
+        logger.info("Загружен файл: " + path);
         return list;
     }
 
@@ -74,7 +81,7 @@ public class Parser {
         List<String> list = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new InputStreamReader(new URL(path).openStream()))) {
             String line;
-            while ((line = br.readLine()) != null) {
+            while (((line = br.readLine()) != null)&&Parser.flag.get()) {
                 if (Utils.filter(line)) {
                     list.add(line);
                 } else {
@@ -83,7 +90,7 @@ public class Parser {
                 }
             }
         } catch (IOException e) {
-            System.out.println(e.getMessage());
+            logger.error(e.getMessage());
         }
         return list;
     }

@@ -1,5 +1,8 @@
 package su.doma_dachi.inno.txt.main.utils;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -10,7 +13,11 @@ import java.util.Scanner;
  * Created by User on 13.02.2017.
  */
 public class Utils {
-    
+    private static final Logger logger = Logger.getLogger(Utils.class);
+
+    static {
+        PropertyConfigurator.configure("src/main/resources/log4j.properties");
+    }
     /**
      * @param line
      * @return true если верный URL, иначе false
@@ -21,7 +28,7 @@ public class Utils {
             URL url = new URL(line);
             return true;
         } catch (MalformedURLException e) {
-            System.out.println("Cтрока не содержит URL");
+            logger.info("Cтрока не содержит URL");
             return false;
         }
     }
@@ -50,10 +57,10 @@ public class Utils {
                     if(Parser.flag.get()) {
                         if (Parser.words.containsKey(word)) {
                             Parser.words.put(word, Parser.words.get(word) + 1);
-                            System.out.println(word + " " + Parser.words.get(word));
+                            logger.info(word + " " + Parser.words.get(word));
                         } else {
                             Parser.words.put(word, 1);
-                            System.out.println(word + " " + Parser.words.get(word));
+                            logger.info(word + " " + Parser.words.get(word));
                         }
                     }
                 }

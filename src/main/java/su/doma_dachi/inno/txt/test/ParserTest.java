@@ -30,7 +30,6 @@ class ParserTest {
         path1 = "3.txt";
         path2 = "zadanie.txt";
         path3 = "zadanie2.txt";
-
     }
 
     @Disabled

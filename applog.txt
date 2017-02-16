@@ -1,0 +1,266 @@
+ERROR   2017-02-16 22:54:35,198 [main] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:54:35,200 [main] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:54:35,200 [main] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:55:19,580 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:55:19,580 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:55:19,580 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:57:26,217 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:57:26,217 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 22:57:26,217 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:01:56,136 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-0
+ERROR   2017-02-16 23:01:56,137 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-1
+ERROR   2017-02-16 23:01:56,137 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-2
+ERROR   2017-02-16 23:01:56,137 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-3
+ERROR   2017-02-16 23:01:56,137 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-4
+ERROR   2017-02-16 23:01:56,138 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-5
+ERROR   2017-02-16 23:01:56,140 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:01:56,140 [Thread-5] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: zadanie2.txt;
+ERROR   2017-02-16 23:01:56,140 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:01:56,141 [Thread-3] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: 3.txt;
+ERROR   2017-02-16 23:01:56,141 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:01:56,141 [Thread-4] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: zadanie.txt;
+ERROR   2017-02-16 23:01:56,269 [Thread-0] su.doma_dachi.inno.txt.main.utils.Parser  - http://doma-dachi.su/test.txt;
+ERROR   2017-02-16 23:01:57,486 [Thread-1] su.doma_dachi.inno.txt.main.utils.Parser  - Ошибка в содержимом файла https://vk.com/doc9128441_442342059?hash=2814e97fc088373812&dl=3ab644878ff08ab446;
+ERROR   2017-02-16 23:03:24,239 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-0
+ERROR   2017-02-16 23:03:24,241 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-1
+ERROR   2017-02-16 23:03:24,241 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-2
+ERROR   2017-02-16 23:03:24,241 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-3
+ERROR   2017-02-16 23:03:24,241 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-4
+ERROR   2017-02-16 23:03:24,241 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-5
+ERROR   2017-02-16 23:03:24,244 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:03:24,244 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:03:24,245 [Thread-3] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\013.txt;
+ERROR   2017-02-16 23:03:24,246 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:03:24,246 [Thread-5] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01zadanie2.txt;
+ERROR   2017-02-16 23:03:24,246 [Thread-4] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01zadanie.txt;
+ERROR   2017-02-16 23:03:24,380 [Thread-0] su.doma_dachi.inno.txt.main.utils.Parser  - http://doma-dachi.su/test.txt;
+ERROR   2017-02-16 23:03:25,615 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыаы 1
+ERROR   2017-02-16 23:03:25,615 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - вавыа 1
+ERROR   2017-02-16 23:03:25,615 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 1
+ERROR   2017-02-16 23:03:25,615 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыва 1
+ERROR   2017-02-16 23:03:25,615 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 2
+ERROR   2017-02-16 23:03:25,615 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваы 1
+ERROR   2017-02-16 23:03:25,615 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыаыываыв 1
+ERROR   2017-02-16 23:03:25,616 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 3
+ERROR   2017-02-16 23:03:25,616 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - куц 1
+ERROR   2017-02-16 23:03:25,616 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - апва 1
+ERROR   2017-02-16 23:03:25,616 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываы 1
+ERROR   2017-02-16 23:03:25,672 [Thread-1] su.doma_dachi.inno.txt.main.utils.Parser  - Ошибка в содержимом файла https://vk.com/doc9128441_442342059?hash=2814e97fc088373812&dl=3ab644878ff08ab446;
+ERROR   2017-02-16 23:04:39,996 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-0
+ERROR   2017-02-16 23:04:39,997 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-1
+ERROR   2017-02-16 23:04:39,997 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-2
+ERROR   2017-02-16 23:04:39,998 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-3
+ERROR   2017-02-16 23:04:39,998 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-4
+ERROR   2017-02-16 23:04:39,998 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-5
+ERROR   2017-02-16 23:04:40,001 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:04:40,001 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:04:40,001 [Thread-4] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie.txt;
+ERROR   2017-02-16 23:04:40,001 [Thread-5] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie2.txt;
+ERROR   2017-02-16 23:04:40,001 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+ERROR   2017-02-16 23:04:40,002 [Thread-3] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\3.txt;
+ERROR   2017-02-16 23:04:40,200 [Thread-0] su.doma_dachi.inno.txt.main.utils.Parser  - http://doma-dachi.su/test.txt;
+ERROR   2017-02-16 23:04:41,323 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыаы 1
+ERROR   2017-02-16 23:04:41,323 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - вавыа 1
+ERROR   2017-02-16 23:04:41,323 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 1
+ERROR   2017-02-16 23:04:41,323 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыва 1
+ERROR   2017-02-16 23:04:41,324 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 2
+ERROR   2017-02-16 23:04:41,324 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваы 1
+ERROR   2017-02-16 23:04:41,324 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыаыываыв 1
+ERROR   2017-02-16 23:04:41,324 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 3
+ERROR   2017-02-16 23:04:41,324 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - куц 1
+ERROR   2017-02-16 23:04:41,324 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - апва 1
+ERROR   2017-02-16 23:04:41,325 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываы 1
+ERROR   2017-02-16 23:04:41,358 [Thread-1] su.doma_dachi.inno.txt.main.utils.Parser  - Ошибка в содержимом файла https://vk.com/doc9128441_442342059?hash=2814e97fc088373812&dl=3ab644878ff08ab446;
+INFO    2017-02-16 23:06:03,189 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-0
+INFO    2017-02-16 23:06:03,191 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-1
+INFO    2017-02-16 23:06:03,191 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-2
+INFO    2017-02-16 23:06:03,191 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-3
+INFO    2017-02-16 23:06:03,191 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-4
+INFO    2017-02-16 23:06:03,192 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-5
+INFO    2017-02-16 23:06:03,195 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:06:03,195 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:06:03,195 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:06:03,195 [Thread-4] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie.txt;
+INFO    2017-02-16 23:06:03,195 [Thread-3] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\3.txt;
+INFO    2017-02-16 23:06:03,195 [Thread-5] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie2.txt;
+ERROR   2017-02-16 23:06:03,313 [Thread-0] su.doma_dachi.inno.txt.main.utils.Parser  - http://doma-dachi.su/test.txt;
+INFO    2017-02-16 23:06:04,495 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыаы 1
+INFO    2017-02-16 23:06:04,496 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - вавыа 1
+INFO    2017-02-16 23:06:04,496 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 1
+INFO    2017-02-16 23:06:04,496 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыва 1
+INFO    2017-02-16 23:06:04,497 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 2
+INFO    2017-02-16 23:06:04,497 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваы 1
+INFO    2017-02-16 23:06:04,497 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ваыаыываыв 1
+INFO    2017-02-16 23:06:04,498 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываыв 3
+INFO    2017-02-16 23:06:04,498 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - куц 1
+INFO    2017-02-16 23:06:04,499 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - апва 1
+INFO    2017-02-16 23:06:04,499 [Thread-2] su.doma_dachi.inno.txt.main.utils.Utils  - ываы 1
+ERROR   2017-02-16 23:06:04,518 [Thread-1] su.doma_dachi.inno.txt.main.utils.Parser  - Ошибка в содержимом файла https://vk.com/doc9128441_442342059?hash=2814e97fc088373812&dl=3ab644878ff08ab446;
+INFO    2017-02-16 23:07:58,826 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-0
+INFO    2017-02-16 23:07:58,828 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-1
+INFO    2017-02-16 23:07:58,828 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-2
+INFO    2017-02-16 23:07:58,828 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-3
+INFO    2017-02-16 23:07:58,829 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-4
+INFO    2017-02-16 23:07:58,829 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-5
+INFO    2017-02-16 23:07:58,831 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:07:58,831 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:07:58,832 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:07:58,833 [Thread-3] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\3.txt
+INFO    2017-02-16 23:07:58,833 [Thread-4] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie.txt
+INFO    2017-02-16 23:07:58,834 [Thread-5] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie2.txt
+INFO    2017-02-16 23:08:10,346 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-0
+INFO    2017-02-16 23:08:10,347 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-1
+INFO    2017-02-16 23:08:10,347 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-2
+INFO    2017-02-16 23:08:10,347 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-3
+INFO    2017-02-16 23:08:10,347 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-4
+INFO    2017-02-16 23:08:10,347 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-5
+INFO    2017-02-16 23:08:10,350 [Thread-5] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:08:10,350 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:08:10,351 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:08:10,351 [Thread-5] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie2.txt
+INFO    2017-02-16 23:08:10,351 [Thread-3] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\3.txt
+INFO    2017-02-16 23:08:10,351 [Thread-4] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie.txt
+INFO    2017-02-16 23:08:48,549 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-0
+INFO    2017-02-16 23:08:48,552 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-1
+INFO    2017-02-16 23:08:48,552 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-2
+INFO    2017-02-16 23:08:48,552 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-3
+INFO    2017-02-16 23:08:48,552 [main] su.doma_dachi.inno.txt.main.utils.Parser  - Thread-4
+INFO    2017-02-16 23:08:48,556 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:08:48,558 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Cтрока не содержит URL
+INFO    2017-02-16 23:08:48,559 [Thread-3] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie.txt
+INFO    2017-02-16 23:08:48,560 [Thread-4] su.doma_dachi.inno.txt.main.utils.Parser  - Загружен файл: E:\inno\01\zadanie2.txt
+INFO    2017-02-16 23:08:48,576 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Вариант 1
+INFO    2017-02-16 23:08:48,576 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Вариант 2
+INFO    2017-02-16 23:08:48,577 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Необходимо 1
+INFO    2017-02-16 23:08:48,577 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - разработать 1
+INFO    2017-02-16 23:08:48,577 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - программу 1
+INFO    2017-02-16 23:08:48,577 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - которая 1
+INFO    2017-02-16 23:08:48,577 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - получает 1
+INFO    2017-02-16 23:08:48,578 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - на 1
+INFO    2017-02-16 23:08:48,578 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - вход 1
+INFO    2017-02-16 23:08:48,578 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - список 1
+INFO    2017-02-16 23:08:48,578 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - ресурсов 1
+INFO    2017-02-16 23:08:48,578 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - содержащих 1
+INFO    2017-02-16 23:08:48,578 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - текст 1
+INFO    2017-02-16 23:08:48,578 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - и 1
+INFO    2017-02-16 23:08:48,579 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - считает 1
+INFO    2017-02-16 23:08:48,579 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - общее 1
+INFO    2017-02-16 23:08:48,579 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - количество 1
+INFO    2017-02-16 23:08:48,579 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - вхождений 1
+INFO    2017-02-16 23:08:48,579 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - для 1
+INFO    2017-02-16 23:08:48,579 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - всех 1
+INFO    2017-02-16 23:08:48,579 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - ресурсов 2
+INFO    2017-02-16 23:08:48,580 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - каждого 1
+INFO    2017-02-16 23:08:48,580 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - слова 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Каждый 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - ресурс 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - должен 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - быть 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - обработан 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - в 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - отдельном 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - потоке 1
+INFO    2017-02-16 23:08:48,581 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - текст 2
+INFO    2017-02-16 23:08:48,582 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - не 1
+INFO    2017-02-16 23:08:48,582 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - должен 2
+INFO    2017-02-16 23:08:48,582 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - содержать 1
+INFO    2017-02-16 23:08:48,582 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - инностранных 1
+INFO    2017-02-16 23:08:48,582 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - символов 1
+INFO    2017-02-16 23:08:48,584 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Необходимо 2
+INFO    2017-02-16 23:08:48,584 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - разработать 2
+INFO    2017-02-16 23:08:48,585 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - программу 2
+INFO    2017-02-16 23:08:48,585 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - которая 2
+INFO    2017-02-16 23:08:48,585 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - только 1
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - кириллица 1
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - знаки 1
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - препинания 1
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - и 2
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - цифры 1
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Отчет 1
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - должен 3
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - строиться 1
+INFO    2017-02-16 23:08:48,586 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - в 2
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - режиме 1
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - реального 1
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - времени 1
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - знаки 2
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - препинания 2
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - и 3
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - цифры 2
+INFO    2017-02-16 23:08:48,587 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - в 3
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - отчет 1
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - не 2
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - входят 1
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - Все 1
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - ошибки 1
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - должны 1
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - быть 2
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - корректно 1
+INFO    2017-02-16 23:08:48,588 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - обработаны 1
+INFO    2017-02-16 23:08:48,589 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - все 1
+INFO    2017-02-16 23:08:48,589 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - покрыто 1
+INFO    2017-02-16 23:08:48,589 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - модульными 1
+INFO    2017-02-16 23:08:48,589 [Thread-3] su.doma_dachi.inno.txt.main.utils.Utils  - тестами 1
+INFO    2017-02-16 23:08:48,601 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - получает 2
+INFO    2017-02-16 23:08:48,601 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - на 2
+INFO    2017-02-16 23:08:48,601 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - вход 2
+INFO    2017-02-16 23:08:48,601 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - список 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - ресурсов 3
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - содержащих 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - текст 3
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - и 4
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - считает 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - общее 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - количество 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - вхождений 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - для 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - всех 2
+INFO    2017-02-16 23:08:48,602 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - ресурсов 4
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - каждого 2
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - слова 2
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Каждый 2
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - ресурс 2
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - должен 4
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - быть 3
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - обработан 2
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - в 4
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - отдельном 2
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - потоке 2
+INFO    2017-02-16 23:08:48,603 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - текст 4
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - не 3
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - должен 5
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - содержать 2
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - инностранных 2
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - символов 2
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - только 2
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - кириллица 2
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - знаки 3
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - препинания 3
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - и 5
+INFO    2017-02-16 23:08:48,604 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - цифры 3
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Отчет 2
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - должен 6
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - строиться 2
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - в 5
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - режиме 2
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - реального 2
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - времени 2
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - знаки 4
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - препинания 4
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - и 6
+INFO    2017-02-16 23:08:48,605 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - цифры 4
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - в 6
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - отчет 2
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - не 4
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - входят 2
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - Все 2
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - ошибки 2
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - должны 2
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - быть 4
+INFO    2017-02-16 23:08:48,606 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - корректно 2
+INFO    2017-02-16 23:08:48,607 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - обработаны 2
+INFO    2017-02-16 23:08:48,607 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - все 2
+INFO    2017-02-16 23:08:48,607 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - покрыто 2
+INFO    2017-02-16 23:08:48,607 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - модульными 2
+INFO    2017-02-16 23:08:48,617 [Thread-4] su.doma_dachi.inno.txt.main.utils.Utils  - тестами 2
+ERROR   2017-02-16 23:08:48,780 [Thread-0] su.doma_dachi.inno.txt.main.utils.Parser  - Ошибка в содержимом файла http://doma-dachi.su/test.txt
