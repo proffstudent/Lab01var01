@@ -29,10 +29,9 @@ public class Utils {
     /**
      *
      * @param line
-     * @return true если строка содержит только валидные символы, иначе false
-     * @throws IOException
+     * @return true если строка содержит только валидные символы, иначе false     *
      */
-    public static boolean filter(String line) throws IOException{
+    public static boolean filter(String line){
         return !line.matches("^.*[a-zA-Z]+.*$");
     }
 
