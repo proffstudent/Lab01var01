@@ -43,11 +43,11 @@ public class Utils {
      *
      */
     public static void addToHashMap(String line) {
-        synchronized (Parser.words) {
-            Scanner scanner = new Scanner(line);
-            scanner.useDelimiter("[\\s\\p{Punct}0-9]+");
-            while (scanner.hasNext()) {
-                String word = scanner.next();
+        Scanner scanner = new Scanner(line);
+        scanner.useDelimiter("[\\s\\p{Punct}0-9]+");
+        while (scanner.hasNext()) {
+            String word = scanner.next();
+            synchronized (Parser.words) {
                 if (Parser.words.containsKey(word)) {
                     Parser.words.put(word, Parser.words.get(word) + 1);
                     System.out.println(word + " " + Parser.words.get(word));

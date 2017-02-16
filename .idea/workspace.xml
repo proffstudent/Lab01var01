@@ -39,10 +39,10 @@
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="241">
+              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
               <folding>
-                <marker date="1487211920432" expanded="true" signature="1574:1726" ph="..." />
+                <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
               </folding>
             </state>
           </provider>
@@ -492,7 +492,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -575,7 +575,7 @@
         <state relative-caret-position="765">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <marker date="1487211920432" expanded="true" signature="1574:1726" ph="..." />
+            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
           </folding>
         </state>
       </provider>
@@ -616,7 +616,7 @@
         <state relative-caret-position="765">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <marker date="1487211920432" expanded="true" signature="1574:1726" ph="..." />
+            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
           </folding>
         </state>
       </provider>
@@ -657,7 +657,7 @@
         <state relative-caret-position="765">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <marker date="1487211920432" expanded="true" signature="1574:1726" ph="..." />
+            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
           </folding>
         </state>
       </provider>
@@ -698,7 +698,7 @@
         <state relative-caret-position="918">
           <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="22" />
           <folding>
-            <marker date="1487211920432" expanded="true" signature="1574:1726" ph="..." />
+            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
           </folding>
         </state>
       </provider>
@@ -739,7 +739,7 @@
         <state relative-caret-position="918">
           <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="22" />
           <folding>
-            <marker date="1487211920432" expanded="true" signature="1574:1726" ph="..." />
+            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
           </folding>
         </state>
       </provider>
@@ -917,10 +917,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/su/doma_dachi/inno/txt/main/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="241">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
           <folding>
-            <marker date="1487211920432" expanded="true" signature="1574:1726" ph="..." />
+            <marker date="1487212206047" expanded="true" signature="1562:1714" ph="..." />
           </folding>
         </state>
       </provider>
