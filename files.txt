@@ -4,3 +4,4 @@ args[1] = "zadanie2.txt";
 args[2] = "https://vk.com/doc9128441_442342059?hash=2814e97fc088373812&dl=3ab644878ff08ab446";
 args[3] = "https://vk.com/doc9128441_442341986?hash=81625d7c7bf5292498&dl=ac2f85557c818debe6";
 args[4] = "3.txt";
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
